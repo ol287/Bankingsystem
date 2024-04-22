@@ -1,0 +1,13 @@
+Username: johndoe
+First Name: John
+Last Name: Doe
+Address: 1234 Elm Street
+Account Type: Checking
+Date of Birth: 01-01-1990
+
+Username: janedoe
+First Name: Jane
+Last Name: Doe
+Address: 5678 Maple Street
+Account Type: Savings
+Date of Birth: 02-02-1992
