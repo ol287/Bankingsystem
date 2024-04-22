@@ -1,7 +1,9 @@
+//compiler diretives
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
+//structure
 struct pass {
     char username[50];
     char fname[20];
@@ -11,11 +13,13 @@ struct pass {
     int date, month, year;
 };
 
+//structure
 struct money {
     char usernameto[50];
     long int money1;
 };
 
+//function definitions
 void accountcreated(void);
 void login(void);
 void display(char*);
@@ -23,6 +27,7 @@ void checkbalance(char*);
 void transfermoney(void);
 void logout(void);
 
+//main function to get menu option
 int main() {
     int choice;
 
@@ -46,6 +51,7 @@ int main() {
     }
     return 0;
 }
+
 
 void accountcreated(void) {
     struct pass u1;
