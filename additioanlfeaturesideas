@@ -1,0 +1,30 @@
+1. Enhanced Security Features
+Password Encryption: Store passwords in an encrypted format rather than plain text to improve security.
+Two-Factor Authentication: Implement two-factor authentication for logging into accounts, using email or SMS verification codes.
+Session Timeouts: Automatically log users out after a period of inactivity.
+2. Improved User Interface
+Menu-Driven Interface: Implement a more interactive, menu-driven user interface that allows users to navigate options more easily, perhaps using a library like ncurses for console applications.
+Input Validation: Add thorough input validation to ensure that all user inputs are valid and safe, preventing errors and potential security vulnerabilities.
+3. Account Operations
+Deposit and Withdrawal: Allow users to deposit or withdraw money from their accounts, updating their balance accordingly.
+Account Statements: Generate a monthly statement for users, showing all transactions, including deposits, withdrawals, and transfers.
+Interest Calculation: Automatically calculate and apply interest to savings accounts based on predefined rates.
+4. Transaction Management
+Scheduled Transactions: Enable users to schedule future transactions, such as recurring bill payments.
+Transaction Limits: Set daily or monthly transaction limits for users to enhance security and manage risk.
+Transaction History: Provide an option to view detailed transaction history with filters by date, type, and amount.
+1. Enhanced Security Features
+Password Encryption: Store passwords in an encrypted format rather than plain text to improve security.
+Two-Factor Authentication: Implement two-factor authentication for logging into accounts, using email or SMS verification codes.
+Session Timeouts: Automatically log users out after a period of inactivity.
+2. Improved User Interface
+Menu-Driven Interface: Implement a more interactive, menu-driven user interface that allows users to navigate options more easily, perhaps using a library like ncurses for console applications.
+Input Validation: Add thorough input validation to ensure that all user inputs are valid and safe, preventing errors and potential security vulnerabilities.
+3. Account Operations
+Deposit and Withdrawal: Allow users to deposit or withdraw money from their accounts, updating their balance accordingly.
+Account Statements: Generate a monthly statement for users, showing all transactions, including deposits, withdrawals, and transfers.
+Interest Calculation: Automatically calculate and apply interest to savings accounts based on predefined rates.
+4. Transaction Management
+Scheduled Transactions: Enable users to schedule future transactions, such as recurring bill payments.
+Transaction Limits: Set daily or monthly transaction limits for users to enhance security and manage risk.
+Transaction History: Provide an option to view detailed transaction history with filters by date, type, and amount.
